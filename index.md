@@ -12,4 +12,5 @@ Also check out [firstname.dev](https://firstname.dev) and [lastname.dev](https:/
 
 ## The list
 
-* [martincostello.dev](https://martincostello.dev/) -- Martin Costello.  [@martin_costello](https://twitter.com/martin_costello)
+* [danmiller.dev](https://danmiller.dev) -- Dan Miller.  [@DanMillerDev](https://twitter.com/DanMillerDev)
+* [martincostello.dev](https://martincostello.dev) -- Martin Costello.  [@martin_costello](https://twitter.com/martin_costello)
