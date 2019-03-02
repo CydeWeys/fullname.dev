@@ -17,3 +17,4 @@ Also check out [firstname.dev](https://firstname.dev) and [lastname.dev](https:/
 * [francisgallagher.dev](https://francisgallagher.dev) -- Francis Gallagher.  [@Furan917](https://twitter.com/Furan917)
 * [martincostello.dev](https://martincostello.dev) -- Martin Costello.  [@martin_costello](https://twitter.com/martin_costello)
 * [romainavalle.dev](https://romainavalle.dev) -- Romain Avalle.  [@RomainAvalle](https://twitter.com/RomainAvalle)
+* [ryanharris.dev](https://ryanharris.dev) -- Ryan Harris.  [@ryan_c_harris](https://twitter.com/ryan_c_harris)
