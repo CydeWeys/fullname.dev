@@ -12,6 +12,7 @@ Also check out [firstname.dev](https://firstname.dev) and [lastname.dev](https:/
 
 ## The list
 
+* [alexfox.dev](https://alexfox.dev) -- Alex Fox.
 * [brandonpittman.dev](https://brandonpittman.dev) -- Brandon Pittman.  [@brandonpittman](https://twitter.com/brandonpittman)
 * [brendanellis.dev](https://brendanellis.dev) -- Brendan Ellis.  [@slayweb](https://twitter.com/slayweb)
 * [danmiller.dev](https://danmiller.dev) -- Dan Miller.  [@DanMillerDev](https://twitter.com/DanMillerDev)
