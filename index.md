@@ -17,6 +17,7 @@ Also check out [firstname.dev](https://firstname.dev) and [lastname.dev](https:/
 * [danmiller.dev](https://danmiller.dev) -- Dan Miller.  [@DanMillerDev](https://twitter.com/DanMillerDev)
 * [francisgallagher.dev](https://francisgallagher.dev) -- Francis Gallagher.  [@Furan917](https://twitter.com/Furan917)
 * [joedodd.dev](https://joedodd.dev) -- Joe Docc.  [@joehdodd](https://twitter.com/joehdodd)
+* [joshking.dev](https://joshking.dev) -- Josh King.
 * [mahmoudkhld.dev](https://mahmoudkhld.dev) -- Mahmoud Khaled.  [@mahmoud_khld](https://twitter.com/mahmoud_khld)
 * [martincostello.dev](https://martincostello.dev) -- Martin Costello.  [@martin_costello](https://twitter.com/martin_costello)
 * [richardstyles.dev](https://richardstyles.dev) -- Richard Styles.  [@CameraStyles](https://twitter.com/CameraStyles)
