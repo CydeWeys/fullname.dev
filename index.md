@@ -16,6 +16,7 @@ Also check out [firstname.dev](https://firstname.dev) and [lastname.dev](https:/
 * [blakeboxberger.dev](https://blakeboxberger.dev) -- Blake Boxberger.  [@BlakeBoxberger](https://twitter.com/BlakeBoxberger)
 * [brandonpittman.dev](https://brandonpittman.dev) -- Brandon Pittman.  [@brandonpittman](https://twitter.com/brandonpittman)
 * [brendanellis.dev](https://brendanellis.dev) -- Brendan Ellis.  [@slayweb](https://twitter.com/slayweb)
+* [connorruggles.dev](https://connorruggles.dev) -- Connor Ruggles [@connor_bonnor](https://twitter.com/connor_bonnor)
 * [danmiller.dev](https://danmiller.dev) -- Dan Miller.  [@DanMillerDev](https://twitter.com/DanMillerDev)
 * [francisgallagher.dev](https://francisgallagher.dev) -- Francis Gallagher.  [@Furan917](https://twitter.com/Furan917)
 * [joedodd.dev](https://joedodd.dev) -- Joe Docc.  [@joehdodd](https://twitter.com/joehdodd)
